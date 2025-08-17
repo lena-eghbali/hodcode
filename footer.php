@@ -2,13 +2,6 @@
 <pre>
 
 
-
-
-
-
-
-
-
 </pre>
 <hr class="opacity-20">
 <footer class="flex justify-between bg-white shadow w-100% h-22">
