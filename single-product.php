@@ -8,7 +8,6 @@
                 the_post();
         ?>
                 <div class="product-details-container my-10 px-4 lg:px-20">
-
                 
                     
                     <div class="w-full flex justify-center mb-8">
